@@ -1,0 +1,4 @@
+*.png
+!demo/demo.png
+!puyoimgs.png
+!target.png
