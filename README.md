@@ -1,6 +1,7 @@
 # ぷよぷよモザイクアート
 ぷよぷよでモザイクアートを作ります。  
-（自分で用意した画像群でもモザイクアートを作れます）
+（自分で用意した画像群でもモザイクアートを作れます）  
+（ブラウザ版：https://youseegreen.pythonanywhere.com/mosaic_art ）
 
 ![](demo/demo.png)
 
